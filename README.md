@@ -1,4 +1,4 @@
 # rashicollege-demo
 this is my first git repository.
 <br>
-Author-rashi
+Author-rashi (college)
